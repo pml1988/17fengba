@@ -1,5 +1,6 @@
 <?php
-
+header("Content_Type:text/html;charset:utf-8");
+date_default_timezone_set("Asia/Shanghai");
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
@@ -72,7 +73,7 @@ if (defined('ENVIRONMENT'))
  * NO TRAILING SLASH!
  *
  */
-	$application_folder = 'application';
+	$application_folder = 'app';
 
 /*
  * --------------------------------------------------------------------
