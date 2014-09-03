@@ -1,0 +1,7 @@
+.top_box_layout {width: 90%;height: auto;text-align: center;}
+.box{width:800px;height:435px;text-align:left;font-size:50px;border:10px solid #93F;position:relative;margin:50px auto;overflow:hidden;}
+.box ul{height:800px;width:435px;position:relative;}
+.box ul li{width:800px;height:435px;left:300px;top:0;position:absolute;}
+.box ol{position:absolute;bottom:15px;width:260px;margin-left:0px;right:3%;z-index:20;text-align:right;}
+.box ol a{width:16px;height:16px;margin-right:10px;background:white;border-radius:50%;display:inline-block;box-shadow:2px 3px 5px #CCCCCC;}
+.box ol a.active{background:#FF8000;z-index:18;}
