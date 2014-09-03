@@ -36,6 +36,15 @@ define('FOPEN_READ_WRITE_CREATE',				'a+b');
 define('FOPEN_WRITE_CREATE_STRICT',				'xb');
 define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
+/*
+| 17疯吧的常用参数
+|
+|
+|
+*/
+define('FB_DB_CACHE_DIR','dbcache');
+
+
 
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
